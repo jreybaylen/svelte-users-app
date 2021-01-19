@@ -1,2 +1,2 @@
-# svelte-users-app
+# Svelte Users App
 A simple svelte app
